@@ -2,3 +2,6 @@ git add . //add file locally
 git commit -m "message" // to commit the changes
 git log //shows the commit log 
 git branch //lists all branches
+git branch <branch name> creates new branch
+git checkout <branch name> checkout that branch
+
