@@ -1,4 +1,4 @@
 git add . //add file locally
 git commit -m "message" // to commit the changes
 git log //shows the commit log 
-git branch //lists all brances
+git branch //lists all branches
