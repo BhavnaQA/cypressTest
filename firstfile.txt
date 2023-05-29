@@ -4,4 +4,5 @@ git log //shows the commit log
 git branch //lists all branches
 git branch <branch name> creates new branch
 git checkout <branch name> checkout that branch
+git merge <branch name> from main branch run this command and branch will be merged to main
 
