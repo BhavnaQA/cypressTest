@@ -6,3 +6,4 @@ git branch <branch name> //creates new branch
 git checkout <branch name> //switch to that branch
 git merge <branch name> //from main branch run this command and branch will be merged to main
 
+//changes
